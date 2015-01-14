@@ -1,0 +1,6 @@
+[
+    {"field":"year","datatype":"time","type":"integer","unique":true,"derived":[{"resolution":"year"}]},
+    {"field":"searchstring","datatype":"searchstring","type":"text","unique":true},
+    {"field":"paragraphNumber","datatype":"numeric","type":"integer","unique":true},
+    {"field":"place","datatype":"categorical","type":"text","unique":false}
+]

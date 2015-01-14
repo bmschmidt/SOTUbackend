@@ -1,0 +1,6 @@
+[
+ {"datatype": "searchstring", "field": "searchstring", "unique": true, "type": "text"},
+ {"datatype": "categorical", "field": "paragraph", "unique": true, "type": "integer"},
+ {"datatype": "categorical", "field": "twelfth", "unique": true, "type": "integer"},
+ {"datatype": "time", "field": "year", "unique": true, "type": "integer"}
+]

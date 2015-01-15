@@ -2,13 +2,13 @@ sources=$(shell find txts -type f -name "*.txt")
 
 all:  bookwormBuilt supplementsBuilt
 
-input.txt: SOTU/input.txt
+input.txt: UCSB_files/input.txt
 	cp $< $@
 
-field_descriptions.json: SOTU/field_descriptions.json
+field_descriptions.json: UCSB_files/field_descriptions.json
 	cp $< $@
 
-jsoncatalog.txt: SOTU/jsoncatalog.txt
+jsoncatalog.txt: UCSB_files/jsoncatalog.txt
 	cp $< $@
 
 all: bookwormBuilt

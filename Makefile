@@ -11,6 +11,8 @@ pristine:
 	make cleanSup
 
 
+debugging: supplementsBuilt
+	mysql -e "SELECT LOCATION FROM LOCATIONLookup LEFT JOIN LOCATION_countryName_LOCATION_geoheap  USING (LOCATION__id) WHERE LOCATION_geo__id IS NULL" SOTUgeo > debugging/unplacedLocations.txt
 
 input.txt: UCSB_files/input.txt
 	cp $< $@
@@ -57,7 +59,7 @@ SOTUgeo/extensions/geotagger/metadata.txt: SOTUgeo/files/texts/input.txt
 	cd SOTUgeo/extensions/geotagger ; make;
 #At this point, there is a file in the destination; but then we update it with some hand tweaks
 	make betterMetadata.txt
-	mv betterMetadta.txt $@
+	mv betterMetadata.txt $@
 
 SOTUgeo/extensions/bookworm-geolocator/geocoded.txt: SOTUgeo/extensions/geotagger/metadata.txt
 	cd SOTUgeo/extensions/bookworm-geolocator; make;

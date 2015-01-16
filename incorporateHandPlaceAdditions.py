@@ -11,7 +11,7 @@ for line in open("fullCorrectives.tsv"):
     try:
         (key,value) = line.split("\t")
     except ValueError:
-        print line
+        continue
     try:
         corrections[key]= union(corrections[key],[value])
     except KeyError:

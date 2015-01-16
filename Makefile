@@ -1,10 +1,16 @@
 sources=$(shell find txts -type f -name "*.txt")
 
-pristine:
-	cd SOTUgeo; make pristine;
-	rm 
 
 all:  bookwormBuilt supplementsBuilt
+
+
+pristine:
+	cd SOTUgeo; make pristine;
+	-rm bookwormBuilt
+	-rm supplementsBuilt
+	make cleanSup
+
+
 
 input.txt: UCSB_files/input.txt
 	cp $< $@

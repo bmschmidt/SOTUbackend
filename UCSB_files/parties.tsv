@@ -50,14 +50,14 @@ year	name	party
 1838	Martin Van Buren	Whig
 1839	Martin Van Buren	Whig
 1840	Martin Van Buren	Whig
-1841	William H. Harrison	Whig
+1841	William Harrison	Whig
 1842	John Tyler	Whig
 1843	John Tyler	Whig
 1844	John Tyler	Whig
-1845	James K. Polk	Democratic
-1846	James K. Polk	Democratic
-1847	James K. Polk	Democratic
-1848	James K. Polk	Democratic
+1845	James Polk	Democratic
+1846	James Polk	Democratic
+1847	James Polk	Democratic
+1848	James Polk	Democratic
 1849	Zachary Taylor	Whig
 1850	Millard Fillmore	Democratic
 1851	Millard Fillmore	Democratic
@@ -78,22 +78,22 @@ year	name	party
 1866	Andrew Johnson	Democratic
 1867	Andrew Johnson	Democratic
 1868	Andrew Johnson	Democratic
-1869	Ulysses S. Grant	Republican
-1870	Ulysses S. Grant	Republican
-1871	Ulysses S. Grant	Republican
-1872	Ulysses S. Grant	Republican
-1873	Ulysses S. Grant	Republican
-1874	Ulysses S. Grant	Republican
-1875	Ulysses S. Grant	Republican
-1876	Ulysses S. Grant	Republican
-1877	Rutherford B. Hayes	Republican
-1878	Rutherford B. Hayes	Republican
-1879	Rutherford B. Hayes	Republican
-1880	Rutherford B. Hayes	Republican
-1881	Chester A. Arthur	Democratic
-1882	Chester A. Arthur	Democratic
-1883	Chester A. Arthur	Democratic
-1884	Chester A. Arthur	Democratic
+1869	Ulysses Grant	Republican
+1870	Ulysses Grant	Republican
+1871	Ulysses Grant	Republican
+1872	Ulysses Grant	Republican
+1873	Ulysses Grant	Republican
+1874	Ulysses Grant	Republican
+1875	Ulysses Grant	Republican
+1876	Ulysses Grant	Republican
+1877	Rutherford Hayes	Republican
+1878	Rutherford Hayes	Republican
+1879	Rutherford Hayes	Republican
+1880	Rutherford Hayes	Republican
+1881	Chester Arthur	Democratic
+1882	Chester Arthur	Democratic
+1883	Chester Arthur	Democratic
+1884	Chester Arthur	Democratic
 1885	Grover Cleveland	Democratic
 1886	Grover Cleveland	Democratic
 1887	Grover Cleveland	Democratic
@@ -118,10 +118,10 @@ year	name	party
 1906	Theodore Roosevelt	Republican
 1907	Theodore Roosevelt	Republican
 1908	Theodore Roosevelt	Republican
-1909	William H. Taft	Republican
-1910	William H. Taft	Republican
-1911	William H. Taft	Republican
-1912	William H. Taft	Republican
+1909	William Taft	Republican
+1910	William Taft	Republican
+1911	William Taft	Republican
+1912	William Taft	Republican
 1913	Woodrow Wilson	Democratic
 1914	Woodrow Wilson	Democratic
 1915	Woodrow Wilson	Democratic
@@ -130,8 +130,8 @@ year	name	party
 1918	Woodrow Wilson	Democratic
 1919	Woodrow Wilson	Democratic
 1920	Woodrow Wilson	Democratic
-1921	Warren G. Harding	Republican
-1922	Warren G. Harding	Republican
+1921	Warren Harding	Republican
+1922	Warren Harding	Republican
 1923	Calvin Coolidge	Republican
 1924	Calvin Coolidge	Republican
 1925	Calvin Coolidge	Republican
@@ -142,17 +142,17 @@ year	name	party
 1930	Herbert Hoover	Republican
 1931	Herbert Hoover	Republican
 1932	Herbert Hoover	Republican
-1934	Franklin D. Roosevelt	Democratic
-1935	Franklin D. Roosevelt	Democratic
-1936	Franklin D. Roosevelt	Democratic
-1937	Franklin D. Roosevelt	Democratic
-1938	Franklin D. Roosevelt	Democratic
-1939	Franklin D. Roosevelt	Democratic
-1940	Franklin D. Roosevelt	Democratic
-1941	Franklin D. Roosevelt	Democratic
-1942	Franklin D. Roosevelt	Democratic
-1943	Franklin D. Roosevelt	Democratic
-1944	Franklin D. Roosevelt	Democratic
+1934	Franklin Roosevelt	Democratic
+1935	Franklin Roosevelt	Democratic
+1936	Franklin Roosevelt	Democratic
+1937	Franklin Roosevelt	Democratic
+1938	Franklin Roosevelt	Democratic
+1939	Franklin Roosevelt	Democratic
+1940	Franklin Roosevelt	Democratic
+1941	Franklin Roosevelt	Democratic
+1942	Franklin Roosevelt	Democratic
+1943	Franklin Roosevelt	Democratic
+1944	Franklin Roosevelt	Democratic
 1945	Harry Truman	Democratic
 1946	Harry Truman	Democratic
 1947	Harry Truman	Democratic
@@ -161,34 +161,34 @@ year	name	party
 1950	Harry Truman	Democratic
 1951	Harry Truman	Democratic
 1952	Harry Truman	Democratic
-1953	Dwight D. Eisenhower	Republican
-1954	Dwight D. Eisenhower	Republican
-1955	Dwight D. Eisenhower	Republican
-1956	Dwight D. Eisenhower	Republican
-1957	Dwight D. Eisenhower	Republican
-1958	Dwight D. Eisenhower	Republican
-1959	Dwight D. Eisenhower	Republican
-1960	Dwight D. Eisenhower	Republican
+1953	Dwight Eisenhower	Republican
+1954	Dwight Eisenhower	Republican
+1955	Dwight Eisenhower	Republican
+1956	Dwight Eisenhower	Republican
+1957	Dwight Eisenhower	Republican
+1958	Dwight Eisenhower	Republican
+1959	Dwight Eisenhower	Republican
+1960	Dwight Eisenhower	Republican
 1961	John F. Kennedy	Democratic
 1962	John F. Kennedy	Democratic
-1963	Lyndon B. Johnson	Democratic
-1964	Lyndon B. Johnson	Democratic
-1965	Lyndon B. Johnson	Democratic
-1966	Lyndon B. Johnson	Democratic
-1967	Lyndon B. Johnson	Democratic
-1968	Lyndon B. Johnson	Democratic
-1969	Richard M. Nixon	Republican
-1970	Richard M. Nixon	Republican
-1971	Richard M. Nixon	Republican
-1972	Richard M. Nixon	Republican
-1973	Richard M. Nixon	Republican
-1974	Gerald R. Ford	Republican
-1975	Gerald R. Ford	Republican
-1976	Gerald R. Ford	Republican
-1977	James E. Carter	Democratic
-1978	James E. Carter	Democratic
-1979	James E. Carter	Democratic
-1980	James E. Carter	Democratic
+1963	Lyndon Johnson	Democratic
+1964	Lyndon Johnson	Democratic
+1965	Lyndon Johnson	Democratic
+1966	Lyndon Johnson	Democratic
+1967	Lyndon Johnson	Democratic
+1968	Lyndon Johnson	Democratic
+1969	Richard Nixon	Republican
+1970	Richard Nixon	Republican
+1971	Richard Nixon	Republican
+1972	Richard Nixon	Republican
+1973	Richard Nixon	Republican
+1974	Gerald Ford	Republican
+1975	Gerald Ford	Republican
+1976	Gerald Ford	Republican
+1977	James Carter	Democratic
+1978	James Carter	Democratic
+1979	James Carter	Democratic
+1980	James Carter	Democratic
 1981	Ronald Reagan	Republican
 1982	Ronald Reagan	Republican
 1983	Ronald Reagan	Republican
@@ -201,13 +201,13 @@ year	name	party
 1990	George H.W. Bush	Republican
 1991	George H.W. Bush	Republican
 1992	George H.W. Bush	Republican
-1993	William Jefferson Clinton	Democratic
-1994	William Jefferson Clinton	Democratic
-1995	William Jefferson Clinton	Democratic
-1996	William Jefferson Clinton	Democratic
-1997	William Jefferson Clinton	Democratic
-1998	William Jefferson Clinton	Democratic
-1999	William Jefferson Clinton	Democratic
+1993	Bill Clinton	Democratic
+1994	Bill Clinton	Democratic
+1995	Bill Clinton	Democratic
+1996	Bill Clinton	Democratic
+1997	Bill Clinton	Democratic
+1998	Bill Clinton	Democratic
+1999	Bill Clinton	Democratic
 2001	George W. Bush	Republican
 2002	George W. Bush	Republican
 2003	George W. Bush	Republican
